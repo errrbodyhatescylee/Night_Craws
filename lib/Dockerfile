@@ -9,8 +9,8 @@ RUN apt-get update && \
   npm i pm2 -g && \
   rm -rf /var/lib/apt/lists/*
   
-RUN git clone https://github.com/Jupiterbold05/Platinum-V1  /root/JUPITERBOLD05
-WORKDIR /root/JUPITERBOLD05/
+RUN git clone https://github.com/errrbodyhatescylee/teddyBot-V1  /root/errrbodyhatescylee
+WORKDIR /root/errrbodyhatescylee/
 
 
 COPY package.json .
