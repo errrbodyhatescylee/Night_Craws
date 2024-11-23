@@ -1,4 +1,4 @@
-//platinum-v1 de los campos de la
+//teddy-V1 de los campos de la
 let {
   runtime,
   formatp,
@@ -173,11 +173,11 @@ smd({
         if (_0x16a10f % 15 === 0) {
           await _0x4e7c63.send("Counting... " + _0x16a10f, {
             edit: _0x2d7cf6
-          }, "platinum-v1", _0x4e7c63);
+          }, "teddyBot-V1", _0x4e7c63);
         } else if (_0x4cf8ed - _0x16a10f < 10) {
           await _0x4e7c63.send("Counting... " + _0x16a10f, {
             edit: _0x2d7cf6
-          }, "platinum-v1", _0x4e7c63);
+          }, "teddyBot-V1", _0x4e7c63);
         }
       }
       await _0x4e7c63.send("*Feature Counting Done!*", {
