@@ -37,15 +37,15 @@ smd(
 ➮Mᴇᴍᴏ - ${formatp(os.totalmem() - os.freemem())} 
       \n *PLATINUM-V1 SIMPLE WHATSAPP BOT*\n\n ${readmore} 
 ╭──❰ *ALL MENU* ❱ 
-│💞 Lɪꜱᴛ 
-│💞 Cᴀᴛᴇɢᴏʀʏ 
-│💞 Hᴇʟᴘ 
-│💞 Aʟɪᴠᴇ 
-│💞 Uᴘᴛɪᴍᴇ 
-│💞 Wᴇᴀᴛʜᴇʀ 
-│💞 Lɪɴᴋ 
-│💞 Cᴘᴜ 
-│💞 Rᴇᴘᴏꜱɪᴛᴏʀʏ 
+│📝 Lɪꜱᴛ 
+│🗃️ Cᴀᴛᴇɢᴏʀʏ 
+│🧸 Hᴇʟᴘ 
+│🌇 Aʟɪᴠᴇ 
+│⌚ Uᴘᴛɪᴍᴇ 
+│⛈️ Wᴇᴀᴛʜᴇʀ 
+│🔗 Lɪɴᴋ 
+│🤖 Cᴘᴜ 
+│🧸 Rᴇᴘᴏꜱɪᴛᴏʀʏ 
 ╰─────────────⦁`.trim();
       return await message.bot.sendUi(message.from, { caption: menuMessage });
     } catch (error) {
@@ -186,7 +186,7 @@ astro_patch.cmd(
 smd(
   {
     pattern: "ping",
-    react: "❄️",
+    react: "⚡",
     desc: "Ping response with speed.",
     category: "misc",
     filename: __filename,
@@ -270,11 +270,11 @@ astro_patch.cmd(
       const { commands } = require("../lib");
       let listMessage = `\n  
 ╭━━〘 * ${Config.botname} * 〙    
-┃ 💞 Prefix: ${Config.HANDLERS}
-┃ 💞 Owner: ${Config.ownername}
-┃ 💞 Commands: ${commands.length}
-┃ 💞 Uptime: ${runtime(process.uptime())}
-┃ 💞 Mem: ${formatp(os.totalmem() - os.freemem())}
+┃ 🧸 Prefix: ${Config.HANDLERS}
+┃ ❤️ Owner: ${Config.ownername}
+┃ 📝 Commands: ${commands.length}
+┃ ⌚ Uptime: ${runtime(process.uptime())}
+┃ 🛰️ Mem: ${formatp(os.totalmem() - os.freemem())}
 ╰━━━━━━━━━━━━━━⊷\n`;
 
       for (let i = 0; i < commands.length; i++) {
