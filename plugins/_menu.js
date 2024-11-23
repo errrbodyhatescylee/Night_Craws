@@ -14,27 +14,27 @@ let currentDesignIndex = 0;
 function getNextMenuDesign() {
   const designs = [
     {
-      header: "✦✦✦ ⟪ *{botname}* ⟫ ✦✦✦\n",
+      header: "🧸❤️✦ ⟪ *{botname}* ⟫ ✦❤️🧸\n",
       lineSeparator: "✦ ",
       commandPrefix: "➔ ",
       footer: "✦✦✦✦✦✦✦✦✦✦",
-      emoji: "🌟",
+      emoji: "🧸",
       categorySeparator: "✦✧✦✧✦✧✦\n",
     },
     {
-      header: "⬤ ⟪ *{botname}* ⟫ ⬤\n",
+      header: "🧸❤️⬤ ⟪ *{botname}* ⟫ ⬤❤️🧸\n",
       lineSeparator: "⬤ ",
       commandPrefix: "⇒ ",
       footer: "⬤⬤⬤⬤⬤⬤⬤",
-      emoji: "🔘",
+      emoji: "🧸",
       categorySeparator: "⬤⬛⬤⬛⬤⬛⬤\n",
     },
     {
-      header: "✰ ⟪ *{botname}* ⟫ ✰\n",
+      header: "🧸❤️✰ ⟪ *{botname}* ⟫ ✰❤️🧸\n",
       lineSeparator: "✰ ",
       commandPrefix: "✦ ",
       footer: "✰✰✰✰✰✰✰",
-      emoji: "✨",
+      emoji: "🧸",
       categorySeparator: "✰☽✰☽✰☽✰\n",
     }
   ];
@@ -57,14 +57,14 @@ function sleep(ms) {
 astro_patch.smd({
   'cmdname': "menu",
   'desc': "Displays a stylish, readable command list",
-  'react': '🎨',
+  'react': '🧸',
   'type': 'user',
   'filename': __filename
 }, async (context, message) => {
   try {
     // Display loading messages
     const loadingMessages = [
-      "🔄 Gathering your commands, please wait..."];
+      "teddy be gatherin all your commands, please wait...❤️🧸"];
     for (const msg of loadingMessages) {
       await context.sendMessage(context.chat, { text: msg });
       await sleep(1000); // Wait for 1 second between messages
@@ -72,12 +72,12 @@ astro_patch.smd({
 
     // Display the menu after loading
     const { commands } = require("../lib");
-    const currentTime = new Date(new Date().toLocaleString('en-US', { timeZone: 'Africa/Lagos' }));
+    const currentTime = new Date(new Date().toLocaleString('en-US', { timeZone: 'Africa/Johannesburg' }));
     const hours = currentTime.getHours();
     const minutes = currentTime.getMinutes().toString().padStart(2, '0');
     const currentDate = currentTime.toLocaleDateString();
     const currentTimeString = `${hours}:${minutes}`;
-    const location = "Lagos, Nigeria"; // Replace with actual location
+    const location = "Johannesburg, South Africa"; // Replace with actual location
     const temperature = await getTemperature(); // Fetch dynamic temperature
 
     // Choose the next menu design
@@ -101,11 +101,11 @@ astro_patch.smd({
 
     let menuContent = `${header}`;
     menuContent += `${lineSeparator}🌡️ *Temperature:* ${temperature}°C\n`;
-    menuContent += `${lineSeparator}🔰 *Owner:* ${Config.ownername}\n`;
+    menuContent += `${lineSeparator}🧸 *Owner:* ${Config.ownername}\n`;
     menuContent += `${lineSeparator}🌍 *Location:* ${location}\n`;
     menuContent += `${lineSeparator}📆 *Date:* ${currentDate}\n`;
-    menuContent += `${lineSeparator}🕰️ *Time:* ${currentTimeString}\n`;
-    menuContent += `${lineSeparator}⏲️ *Uptime:* ${runtime(process.uptime())}\n`;
+    menuContent += `${lineSeparator}🕝 *Time:* ${currentTimeString}\n`;
+    menuContent += `${lineSeparator}⌚ *Uptime:* ${runtime(process.uptime())}\n`;
     menuContent += `${lineSeparator}💾 *RAM Usage:* ${formatp(os.totalmem() - os.freemem())}\n`;
     menuContent += `${lineSeparator}📊 *Total Commands:* ${commands.length}\n\n`;
 
@@ -119,7 +119,7 @@ astro_patch.smd({
     }
 
     menuContent += `\n${footer}\n\n${design.emoji} *${Config.botname}* - Your companion\n`;
-    menuContent += `©2024 *JUPITERBOLD05*\n`;
+    menuContent += `©2024 *errrbodyhatescylee*\n`;
     menuContent += `${readmore}`;
 
     // Box the menu content
@@ -132,8 +132,8 @@ astro_patch.smd({
         'forwardingScore': 100, 
         'isForwarded': true,
         'externalAdReply': {
-          'title': 'Pʟᴀᴛɪɴᴜᴍ-V1',
-          'sourceUrl': 'https://whatsapp.com/channel/0029Vas9N7MBA1f0yw8dZ515'
+          'title': 'teddyBot-V1',
+          'sourceUrl': 'https://whatsapp.com/channel/0029VatxrTiK5cDN43SzVq3b'
         }
       },
       'ephemeralExpiration': 3000
