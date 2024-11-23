@@ -19,7 +19,7 @@ const os = require("os");
 const speed = require("performance-now");
 smd(
   {
-    pattern: "platinum-v1ai",
+    pattern: "teddyBot-V1",
     desc: "Generate an AI photo.",
     category: "nsfw",
     filename: __filename,
