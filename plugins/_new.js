@@ -150,7 +150,7 @@ smd(
    filename: __filename
  }, async _0x17bb63 => {
    try {
-     let _0x12a593 = "*PLATINUM-V1 CURRENTLY ACTIVE!*";
+     let _0x12a593 = "*teddyBot-V1 CURRENTLY Active ❤️🧸*";
      await _0x17bb63.reply(_0x12a593, {
        contextInfo: {
          externalAdReply: {
