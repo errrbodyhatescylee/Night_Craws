@@ -19,7 +19,7 @@ smd(
       }
 
       // Send a loading message
-      await m.send("Platinum-v1 is searching for the song based on your lyrics 🎶");
+      await m.send("teddyBot-V1 is searching for the song based on your lyrics 🎶");
 
       // Define the API URL for fetching song details
       const apiUrl = `https://widipe.com/findsong?text=${encodeURIComponent(query)}`;
