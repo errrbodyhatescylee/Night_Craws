@@ -12,17 +12,15 @@
 
 ---
 
-## 🚀 Ｄｅｐｌｏｙｍｅｎｔ Ｏｐｔｉｏｎｓ
-Get started with Pʟᴀᴛɪɴᴜᴍ-V1 quickly! Choose your preferred deployment method:
+### Deployment Methods ❤️🧸
 
-### ⭐ １．ＦＯＲＫ ＴＨＩＳ ＲＥＰＯＳＩＴＯＲＹ
-<p align="center">
-  <a href="https://github.com/Jupiterbold05/Platinum-V1/fork" target="_blank">
-    <img alt="Fork repo" src="https://img.shields.io/badge/✨ Fork This Repo-FF4500?style=for-the-badge&logo=git&logoColor=white"/>
-  </a>
-</p>
+Get started with teddyBot-V1 quickly! Choose your preferred deployment method:
 
-### 🔑 ２．ＧＥＴ ＳＥＳＳＩＯＮ ＩＤ
+### 🧸-1. FORK THIS REPOSITORY 
+<a href='https://github.com/errrbodyhatescylee/teddyBot-V1/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a> 
+
+### 🧸-2. CLICK TO GET SESSION_ID 
+
 - **Pair Code**: 
   <a href="https://above-allpair.onrender.com/pair">
     <img src="https://img.shields.io/badge/Pair_Code-1E90FF?style=for-the-badge" alt="Click Here to Get Pair-Code" width="120">
@@ -32,72 +30,87 @@ Get started with Pʟᴀᴛɪɴᴜᴍ-V1 quickly! Choose your preferred deploymen
     <img src="https://img.shields.io/badge/QR_Code-32CD32?style=for-the-badge" alt="Click Here to Get QR-Code" width="100">
   </a>
 
-### 🌈 ３．ＤＥＰＬＯＹ ＴＯ ＰＬＡＴＦＯＲＭＳ
-Pick your favorite platform to deploy Pʟᴀᴛɪɴᴜᴍ-V1:
+### 3. Deployment Platforms ❤️🧸
 
-<div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
-  <div style="border: 2px solid #FF4500; border-radius: 15px; padding: 15px; width: 80%; text-align: center;">
-    <h3 style="font-family: 'Arial Black', sans-serif; font-size: 20px;">Render</h3>
-    <a href="https://dashboard.render.com/select-repo?type=web">
-      <img src="https://img.shields.io/badge/-🚀_Deploy_on_Render-black?style=for-the-badge&logo=render&logoColor=white"/>
-    </a>
-    <br>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Render_logo.png" width="50" />
-    <br>
-    <a href="https://dashboard.render.com/signup" style="font-size: 14px;">Create Account</a>
-  </div>
+Pick your favorite platform to deploy teddyBot-V1 :
 
-  <div style="border: 2px solid #FF4500; border-radius: 15px; padding: 15px; width: 80%; text-align: center;">
-    <h3 style="font-family: 'Arial Black', sans-serif; font-size: 20px;">Clever Cloud</h3>
-    <a href="https://api.clever-cloud.com/v2/sessions/signup?subscription_source=cta-home-signup">
-      <img src="https://img.shields.io/badge/-☁️_Deploy_on_Clever_Cloud-orange?style=for-the-badge&logo=clever-cloud&logoColor=white"/>
-    </a>
-    <br>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Clever_Cloud_logo.png" width="50" />
-    <br>
-    <a href="https://api.clever-cloud.com/v2/sessions/signup?subscription_source=cta-home-signup" style="font-size: 14px;">Create Account</a>
-  </div>
 
-  <div style="border: 2px solid #FF4500; border-radius: 15px; padding: 15px; width: 80%; text-align: center;">
-    <h3 style="font-family: 'Arial Black', sans-serif; font-size: 20px;">Heroku</h3>
-    <a href="https://dashboard.heroku.com/new?template=https://github.com/Jupiterbold05/Aboveall">
-      <img src="https://img.shields.io/badge/-🚀_Deploy_on_Heroku-purple?style=for-the-badge&logo=heroku&logoColor=white"/>
-    </a>
-    <br>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Heroku_logo.svg" width="50" />
-    <br>
-    <a href="https://signup.heroku.com/" style="font-size: 14px;">Create Account</a>
-  </div>
+### 1. Deploy on Render 
+<a href='https://dashboard.render.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RENDER-h?color=black&style=for-the-badge&logo=render'/></a></p>
 
-  <div style="border: 2px solid #FF4500; border-radius: 15px; padding: 15px; width: 80%; text-align: center;">
-    <h3 style="font-family: 'Arial Black', sans-serif; font-size: 20px;">Replit</h3>
-    <a href="https://replit.com/github/Jupiterbold05/Aboveall">
-      <img src="https://img.shields.io/badge/-💻_Deploy_on_Replit-red?style=for-the-badge&logo=replit&logoColor=white"/>
-    </a>
+1. If you don't have an account in RENDER, create one and deploy.
     <br>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Replit_logo.png" width="50" />
-    <br>
-    <a href="https://replit.com/github/Jupiterbold05/Aboveall" style="font-size: 14px;">Create Account</a>
-  </div>
+    <a href='https://dashboard.render.com/select-repo?type=web' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=render&logoColor=white'/></a>
 
-</div>
+
+### 2. Deploy on Heroku   
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=new)
+
+--------
+
+1. If you don't have an account in Heroku, create one.
+    <br>
+    <a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+2. Now deploy.
+    <br>
+    <a href='https://dashboard.heroku.com/new?template=https://github.com/errrbodyhatescylee/Queen_Kylie-V1' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+
+--------
+    
+
+### 3. Deploy on Replit
+
+   <a href='https://repl.it/github/SuhailTechInfo/suhailmd-2.0' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>
+
+--------
+
+
+#### 4. DEPLOY ON KOYEB
+
+<a href='https://app.koyeb.com/auth/signin' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-KOYEB-green?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
+
+--------  
+    
+
+ #### 5. DEPLOY ON RAILWAY
+
+<a href='https://railway.app/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RAILWAY-h?color=red&style=for-the-badge&logo=railway'/></a></p>
+
+--------
+
+
+### 6. DEPLOY ON CODESPACES 
+
+<a href='https://github.com/codespaces/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/CODESPACE-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
+
+--------
+
+
+#### 7. DEPLOY ON GLITCH
+
+<a href='https://glitch.com/signup' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/GLITCH-h?color=pink&style=for-the-badge&logo=glitch'/></a></p>
+
+--------
+
 
 ---
 
 ## ⚠️ ＮＯＴＥ
-The script for Pʟᴀᴛɪɴᴜᴍ-V1 is not openly allowed to be used in any of your projects; be warned!
+The script for teddyBot-V1 is not openly allowed to be used in any of your projects; be warned!
 
-## ```Connect With Me```<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h1> 
+## ```Connect With Me```<img src="https://files.catbox.moe/g3wwyk.jpg" width ="80"></h1> 
 <br>
 <p align="center">
-<a href="https://wa.me/2348100835767"><img src="https://img.shields.io/badge/Contact ᴀʙᴏᴠᴇ ᴀʟʟ-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://whatsapp.com/channel/0029VaeW5Tw4yltQOYIO5E2D"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/27615045572"><img src="https://img.shields.io/badge/Contact Cadillac Cylee-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://whatsapp.com/channel/0029VatxrTiK5cDN43SzVq3b"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <p align="center">
-<img alt="Development" width="250" src="https://i.imgur.com/Vat6Eox.jpeg" /> </p>
+<img alt="Development" width="250" src="https://files.catbox.moe/g3wwyk.jpg" /> </p> 
+
 
 ## Support
-SUPPORT CHANNEL: <a href="https://whatsapp.com/channel/0029VaeW5Tw4yltQOYIO5E2D"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+SUPPORT CHANNEL: <a href="https://whatsapp.com/channel/0029VatxrTiK5cDN43SzVq3b"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
-### Please Give One Star ✨ & [follow me to get notified of my updates 💗](https://github.com/Jupiterbold05/Platinum-V1)
+### Please Give One Star ✨ & [follow me to get notified of my updates 🧸](https://github.com/errrbodyhatescylee/teddyBot-V1)
 
-<b>Version -> 2.0.0</b>
+<b>Version -> 1.0.0</b>
