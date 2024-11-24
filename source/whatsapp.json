@@ -1,7 +1,7 @@
 {
     "__JSON__": true,
-    "AUTHOR": "Jupiterbold05",
-    "Theme": "PLATINUM-V1",
+    "AUTHOR": "errrbodyhatescylee",
+    "Theme": "teddyBot-V1",
     "LANGCODE": "en",
     "STRINGS": {  
         "updater": {    
@@ -10,7 +10,7 @@
             "UPDATED_LOCAL": "*Successfully Updated!*"
         },    
         "global": {   
-            "botName": "PLATINUM-V1",
+            "botName": "teddyBot-V1",
             "body": "As always Sir.",
           "greet2" : "Hello Sir",
             "pic1": "https://telegra.ph/file/b065f0f673cae5452c358.jpg",
@@ -23,7 +23,7 @@
              "greet" : "Sir", 
            "dotbody" : "Oh, hello sir..",
             "promote": "Admin Role Privileged",
-            "pmallow": "*Hii,This is PLATINUM-V1*\n*An assistant of My Master.*\nMy Master is busy right now.\nKindly Leave your Message.\n\n_I will inform him about your message asap......_",
+            "pmallow": "*Hii,This is teddyBot-V1*\n*An assistant of My Master.*\nMy Master is busy right now.\nKindly Leave your Message.\n\n_I will inform him about your message asap......_",
             "pmblock": "❌ Blocked*\n\n You have been blocked for spamming.\n\n _𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 PLATINUM-V1",
             "pmwarn": "✋Hii* \nPlease don't spam else I'll block you for spamming. _You have ${checkPermit.times} warning(s).",
             "permited": "Hii ${tname}*\n\nNow You are permitted by my owner to pm now.\n\n *𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 PLATINUM-V1*", 
@@ -32,9 +32,9 @@
             "antlink": "Link Detected.\n*Good Bye Bro*",
             "session": "\n*This is your session.sam.json,keep it safe",
             "mention": " Please atleast mention any user bro.",
-            "title": "PLATINUM-V1",
-            "footer": "PLATINUM-V1",
-            "by": "Made by: *Jupiterbold05*",
+            "title": "teddyBot-V1",
+            "footer": "teddyBot-V1",
+            "by": "Made by: *errrbodyhatescylee*",
             "chat_desc": "Options Avilable* : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
             "success": "Done ✓",
             "dot": "Hii Sir, Did you mean *-help?*",
