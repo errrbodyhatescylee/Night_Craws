@@ -12,7 +12,7 @@ smd(
  },
  async (cld) => {
    const { exec } = require("child_process");
-   cld.reply("Restarting");
+   cld.reply("teddy is restarting ❤️🧸");
    exec("pm2 restart all");
  }
 );
@@ -28,7 +28,7 @@ smd(
   },
   async (cld) => {
     const { exec } = require("child_process");
-    cld.reply("Shutting down");
+    cld.reply("teddyBot-V1 is Shutting down ❤️🧸");
     exec("pm2 stop all");
   }
  );
