@@ -11,7 +11,7 @@ const {
 } = require("../lib");
 const { search, download } = require("aptoide-scraper");
 const googleTTS = require("google-tts-api");
-const ytdl = require("platinum-v1");
+const ytdl = require("teddyBot-V1");
 const yts = require("secktor-pack");
 const fs = require("fs-extra");
 const axios = require("axios");
@@ -58,7 +58,7 @@ const path = require ("path");
 *Followers:* ${followers}
 *Description:* ${description || "No description provided"}
 
-\t*Platinum-V1 WA STALKER*
+\t*teddyBot-V1 WA STALKER*
 `;
 
       await m.bot.sendFromUrl(m.from, img, caption, m, {}, "image");
