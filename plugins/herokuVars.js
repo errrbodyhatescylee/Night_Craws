@@ -269,7 +269,7 @@ smd(
     }
     let _0x762894 = (
       "\n   👤 *" +
-      (Config.botname ? Config.botname : "QUEEN_ANITA-V2") +
+      (Config.botname ? Config.botname : "teddyBot-V1") +
       " MODS* 👤\n   \n" +
       _0x10bccf
     ).trim();
@@ -317,7 +317,7 @@ smd(
         return _0x61d6ff.reply(
           "*" +
             _0xf1255f +
-            " Added Succesfully.*\nSudo Numbers : ```" +
+            "User successfully added in Teddy Sudo ❤️🧸*\nSudo Numbers : ```" +
             global.sudo +
             "```"
         );
