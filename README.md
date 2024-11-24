@@ -1,12 +1,12 @@
-# 🌟 Pʟᴀᴛɪɴᴜᴍ-V1 🌟
+# 🧸❤️-teddyBot-V1-❤️🧸
 
 <p align="center">
-  <img src="https://i.imgur.com/7KCi9Qh.jpeg" alt="Pʟᴀᴛɪɴᴜᴍ-V1 Banner" width="450" style="border-radius: 15px;"/>
+  <img src="https://files.catbox.moe/gfbkd0.jpg" alt="teddyBot-V1 Banner" width="450" style="border-radius: 15px;"/>
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Arial%20Black&weight=700&size=16&duration=3500&pause=1000&color=FF5733&vCenter=true&width=400&lines=🚀+Above+All+WhatsApp+Bot;💬+Multi-Device+Support;🛠️+Developed+By+Above+All" alt="Typing SVG Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Arial%20Black&weight=700&size=16&duration=3500&pause=1000&color=FF5733&vCenter=true&width=400&lines=🧸+teddyBot+-V1+WhatsApp+Bot;💬+Multi-Device+Support;🛠️+Developed+By+Cadillac+Cylee" alt="Typing SVG Animation" />
   </a>
 </p>
 
