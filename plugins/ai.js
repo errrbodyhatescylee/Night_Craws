@@ -23,11 +23,11 @@ smd(
       // Extract the query from the message
       const query = m.text.split(' ').slice(1).join(' ');
       if (!query) {
-        return await m.send("Please provide a query, e.g., `.gpt What is life?`.");
+        return await m.send("Please provide a query, e.g., `.gpt What's the weather today ❤️🧸?`.");
       }
 
       // Send a loading message
-      await m.send("Chill your request is being processed •°•° 🤔");
+      await m.send("Rest, teddy is still thinkin🤔... Make coffee in the meantime•°•° ☕❤️🧸");
 
       // Define the API URL
       const apiUrl = `https://widipe.com/gpt4?text=${encodeURIComponent(query)}`;
