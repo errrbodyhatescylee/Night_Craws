@@ -1,19 +1,19 @@
 {
-   "name": "Platinum-V1",
+   "name": "teddyBot-V1",
    "version": "2.5.0",
-   "description": "Multi device whatsapp bot by JUPITERBOLD0.",
+   "description": "Multi device whatsapp bot by errrbodyhatescylee.",
    "main": "index.js",
    "type": "commonjs",
    "scripts": {
-      "run": "pm2 start . --deep-monitoring --attach --name Platinum-V1 || node .",
-      "asta": "pm2 start . --deep-monitoring --attach --name Platinum-V1 || node .",
-      "start": "pm2 start . --attach --name Platinum-V1",
-      "stop": "pm2 stop Platinum-V1",
-      "heroku-postbuild": "git clone https://github.com/Jupiterbold05/Platinum-V1 temp && mv temp/.git .git && rm -rf temp && npx puppeteer@latest install  --y",
-      "fis-heroku-postbuild": "git clone https://github.com/Jupiterbold05/Platinum-V1.git temp1 && rsync -av temp1/* ./ && rsync -av temp1/.* ./ && rm -rf temp1 && npm i && npx puppeteer@latest install",
+      "run": "pm2 start . --deep-monitoring --attach --name teddyBot-V1 || node .",
+      "asta": "pm2 start . --deep-monitoring --attach --name teddyBot-V1 || node .",
+      "start": "pm2 start . --attach --name teddyBot-V1",
+      "stop": "pm2 stop teddyBot-V1",
+      "heroku-postbuild": "git clone https://github.com/errrbodyhatescylee/teddyBot-V1 temp && mv temp/.git .git && rm -rf temp && npx puppeteer@latest install  --y",
+      "fis-heroku-postbuild": "git clone https://github.com/errrbodyhatescylee/teddyBot-V1.git temp1 && rsync -av temp1/* ./ && rsync -av temp1/.* ./ && rm -rf temp1 && npm i && npx puppeteer@latest install",
       "postinstall": "npx puppeteer@latest install --y"
    },
-   "author": "JUPITERBOLD0",
+   "author": "errrbodyhatescylee",
    "license": "Apache-2.0",
    "dependencies": {
       "@adiwajshing/keyed-db": "^0.2.4",
@@ -77,10 +77,10 @@
    },
    "repository": {
       "type": "git",
-      "url": "git+https://github.com/Jupiterbold05/Platinum-V1.git"
+      "url": "git+https://github.com/errrbodyhatescylee/teddyBot-V1.git"
    },
    "bugs": {
-      "url": "https://github.com/Jupiterbold05/Platinum-V1/issues"
+      "url": "https://github.com/errrbodyhatescylee/teddyBot-V1/issues"
    },
-   "homepage": "https://github.com/Jupiterbold05/Platinum-V1#readme"
+   "homepage": "https://github.com/errrbodyhatescylee/teddyBot-V1#readme"
    }
