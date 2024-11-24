@@ -12,28 +12,28 @@ global.mongodb = process.env.MONGODB_URI || "mongodb+srv://astrofx0011:astro@clu
 global.allowJids = process.env.ALLOW_JID || "null";
 global.blockJids = process.env.BLOCK_JID || "null";
 global.DATABASE_URL = process.env.DATABASE_URL || "";
-global.timezone = process.env.TZ || process.env.TIME_ZONE || "Africa/Lagos";
-global.github = process.env.GITHUB || "https://github.com/Jupiterbold05/Platinum-V1";
-global.gurl = process.env.GURL || "https://whatsapp.com/channel/0029VaeW5Tw4yltQOYIO5E2D";
-global.website = process.env.GURL || "https://whatsapp.com/channel/0029VaeW5Tw4yltQOYIO5E2D";
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://i.imgur.com/gvdQSvi.jpeg";
-global.devs = "2348084644182";
+global.timezone = process.env.TZ || process.env.TIME_ZONE || "Africa/Johannesburg";
+global.github = process.env.GITHUB || "https://github.com/errrbodyhatescylee/teddyBot-V1";
+global.gurl = process.env.GURL || "https://whatsapp.com/channel/0029VatxrTiK5cDN43SzVq3b";
+global.website = process.env.GURL || "https://whatsapp.com/channel/0029VatxrTiK5cDN43SzVq3b";
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://files.catbox.moe/0y887q.jpg";
+global.devs = "27615045572";
 global.sudo = process.env.SUDO || "27615045572";
-global.owner = process.env.OWNER_NUMBER || "27849730363";
+global.owner = process.env.OWNER_NUMBER || "27615045572";
 global.style = process.env.STYLE || "3";
-global.gdbye = process.env.GOODBYE || "false";
+global.gdbye = process.env.GOODBYE || "true";
 global.wlcm = process.env.WELCOME || "true";
 global.warncount = process.env.WARN_COUNT || 3;
 global.disablepm = process.env.DISABLE_PM || "false";
 global.disablegroup = process.env.DISABLE_GROUPS || "false",
 global.MsgsInLog = process.env.MSGS_IN_LOG || "false";
-global.userImages = process.env.USER_IMAGES || "https://i.imgur.com/gvdQSvi.jpeg";
+global.userImages = process.env.USER_IMAGES || "https://files.catbox.moe/gfbkd0.jpg";
 global.waPresence = process.env.WAPRESENCE || "typing";
 global.readcmds = process.env.READ_COMMAND || "true";
 global.readmessage = process.env.READ_MESSAGE || "false";
 global.readmessagefrom = process.env.READ_MESSAGE_FROM || "";
 global.read_status = process.env.AUTO_READ_STATUS || "true";
-global.save_status = process.env.AUTO_SAVE_STATUS || "false";
+global.save_status = process.env.AUTO_SAVE_STATUS || "true";
 global.save_status_from = process.env.SAVE_STATUS_FROM || "";
 global.read_status_from = process.env.READ_STATUS_FROM || "";
 
@@ -48,11 +48,11 @@ module.exports = {
   HANDLERS: process.env.PREFIX || ".",
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "1.0.0",
-  caption: process.env.CAPTION || "Cylee thee G.O.A.T. ❤️🧸™",
-  author: process.env.PACK_AUTHER || "ąҍօѵҽ ąӀӀ ☠️👑🌍",
-  packname: process.env.PACK_NAME || "ąҍօѵҽ ąӀӀ ☠️👑🌍",
-  botname: process.env.BOT_NAME || "thecyleebot",
-  ownername: process.env.OWNER_NAME || "Sir Cylee ❤️🧸",
+  caption: process.env.CAPTION || "teddyBot-V1 ❤️🧸, powered by QUEEN_KYLIE 👸❤️™",
+  author: process.env.PACK_AUTHER || "Cadillac Cylee",
+  packname: process.env.PACK_NAME || "teddyBot-V1 ❤️🧸",
+  botname: process.env.BOT_NAME || "teddyBot-V1",
+  ownername: process.env.OWNER_NAME || "Cadillac Cylee ❤️🧸",
   errorChat: process.env.ERROR_CHAT || "",
   KOYEB_API: process.env.KOYEB_API || "false",
   REMOVE_BG_KEY: process.env.REMOVE_BG_KEY || "",
@@ -65,7 +65,7 @@ module.exports = {
   aitts_Voice_Id: process.env.AITTS_ID || "37",
   ELEVENLAB_API_KEY: process.env.ELEVENLAB_API_KEY || "",
   WORKTYPE: process.env.WORKTYPE || process.env.MODE || "public",
-  LANG: (process.env.THEME || "PLATINUM").toUpperCase(),
+  LANG: (process.env.THEME || "t e d d y").toUpperCase(),
 };
 global.rank = "updated";
 global.isMongodb = true;
