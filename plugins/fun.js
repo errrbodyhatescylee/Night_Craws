@@ -145,7 +145,7 @@ smd(
       const message = `╔════════════════◇\n` +
                       `║ *🛐Content:* ${verse.trim()}\n` +  // trim() removes any unnecessary whitespace
                       `║ *✨Reference:* ${reference}\n` +
-                      `║ *✨Author:* > Made By Queen platinum-v1\n` +
+                      `║ *✨Author:* > Made By teddyBot-V1\n` +
                       `╚════════════════◇`;
 
       await m.send(message);
@@ -247,7 +247,7 @@ smd({
 📞 *Phone:* ${data.phone}
 📧 *Email:* ${data.email}
 🌐 *Location:* ${data.location.city}, ${data.location.state}, ${data.location.country}
-🔑 *Username:* ${data.login.username}
+🧸 *Username:* ${data.login.username}
 📷 *Profile Picture:* [View Image](${data.picture.large})
        `;
        
